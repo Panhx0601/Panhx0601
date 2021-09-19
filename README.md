@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Panhx0601
+# 👋 Hi, I’m @Panhx0601
 - 🔭 I’m currently studying at HNU as a BD student.
 - 🌱 I’m currently learning C++, Go, Java, Combine.
 - 🎓 HNU CS 2018-2022 / HNU CS 2022-2025.
