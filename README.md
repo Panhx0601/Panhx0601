@@ -1,6 +1,6 @@
 👋 **Hi, I’m @Panhx0601**
 - 🔭 I’m currently studying at HNU as a Master student.
-- 🌱 I’m currently learning memory disaggregation in datacenter.
+- 🌱 I’m currently learning Quality of Service (QoS) in Remote Direct Memory Access (RDMA).
 - 🎓 HNU CS 2018-2022 / HNU CS 2022-2025.
 - ✨ I once worked in Meituan for two months about back-end development.
 - ✍ Many Games🎮 / basketball / blogger / coding / open source.
